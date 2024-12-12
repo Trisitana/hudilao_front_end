@@ -1,0 +1,1 @@
+import{R as e}from"./index-077565e4.js";import{g as t,p as c}from"./manage-1ae7ae30.js";const n=e("cook",{state:()=>({id:0,account:"",token:""}),actions:{},getters:{}}),r=o=>c("/api/cook/login",o),i=o=>t("/api/cook/order",o),k=o=>t("/api/cook/history/announcement",o),d=o=>t("/api/cook/schedule",o),p=o=>c("/api/cook/ready",o);export{n as C,i as a,k as b,r as c,d,p as e};

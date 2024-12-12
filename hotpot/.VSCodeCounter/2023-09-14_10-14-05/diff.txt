@@ -1,0 +1,36 @@
+Date : 2023-09-14 10:14:05
+Directory : e:\restrauntpro\hotpot\src
+Total : 7 files,  36 codes, 190 comments, -47 blanks, all 179 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |          6 |         35 |        190 |        -47 |        178 |
+| JavaScript |          1 |          1 |          0 |          0 |          1 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                   |          7 |         36 |        190 |        -47 |        179 |
+| common                                                              |          1 |          1 |          0 |          0 |          1 |
+| views                                                               |          6 |         35 |        190 |        -47 |        178 |
+| views (Files)                                                       |          1 |         22 |         71 |          0 |         93 |
+| views\AdminMainArea                                                 |          5 |         13 |        119 |        -47 |         85 |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                            | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| e:\restrauntpro\hotpot\src\common\router.js                         | JavaScript |          1 |          0 |          0 |          1 |
+| e:\restrauntpro\hotpot\src\views\AdminMainArea\CustomerManage.vue   | Vue        |         -3 |         35 |        -12 |         20 |
+| e:\restrauntpro\hotpot\src\views\AdminMainArea\DataReport.vue       | Vue        |          0 |         18 |        -12 |          6 |
+| e:\restrauntpro\hotpot\src\views\AdminMainArea\DishManage.vue       | Vue        |          0 |         35 |        -13 |         22 |
+| e:\restrauntpro\hotpot\src\views\AdminMainArea\EmployeeManage.vue   | Vue        |          4 |         30 |        -11 |         23 |
+| e:\restrauntpro\hotpot\src\views\AdminMainArea\ViewAnnouncement.vue | Vue        |         12 |          1 |          1 |         14 |
+| e:\restrauntpro\hotpot\src\views\CookDashBoard.vue                  | Vue        |         22 |         71 |          0 |         93 |
+| Total                                                               |            |         36 |        190 |        -47 |        179 |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+

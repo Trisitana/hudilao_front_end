@@ -1,0 +1,30 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.8",
+    "@fullcalendar/daygrid": "^6.1.8",
+    "@fullcalendar/vue3": "^6.1.8",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.4.0",
+    "echarts": "^5.4.3",
+    "element-plus": "^2.3.12",
+    "pinia": "^2.1.6",
+    "sass": "^1.66.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "naive-ui": "^2.34.4",
+    "vfonts": "^0.0.3",
+    "vite": "^4.4.5"
+  }
+}
